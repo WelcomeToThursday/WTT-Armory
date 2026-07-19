@@ -232,7 +232,7 @@ namespace WTTArmory.Chatbot
                 return thursdayResponses[_random.Next(thursdayResponses.Length)];
             }
 
-            // Late night messages (between 11 PM and 5 AM) - USERNAME ADDS CONCERN (personal address)
+            // Late night messages (between 11 PM and 5 AM)
             if (now.Hour >= 23 || now.Hour < 5)
             {
                 string[] lateNightResponses = new[]

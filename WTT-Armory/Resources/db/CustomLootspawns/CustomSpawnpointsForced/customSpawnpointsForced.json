@@ -23,7 +23,7 @@
         "IsGroupPosition": false,
         "GroupPositions": [],
         "IsAlwaysSpawn": true,
-        "Root": "68748750c2bc7bbc4797d713",
+        "Root": "68748762bdc2e875d3940b4f",
         "Items": [
           {
             "_id": "68748762bdc2e875d3940b4f",
@@ -33,15 +33,7 @@
             }
           }
         ]
-      },
-      "itemDistribution": [
-        {
-          "composedKey": {
-            "key": "687464af51ed3be7e4f6f525"
-          },
-          "relativeProbability": 1
-        }
-      ]
+      }
     }
   ],
   "woods": [
@@ -66,7 +58,7 @@
         "IsGroupPosition": false,
         "GroupPositions": [],
         "IsAlwaysSpawn": false,
-        "Root": "687b3f8d854405e9569ca301",
+        "Root": "687b3f7eea826c5817b4d387",
         "Items": [
           {
             "_id": "687b3f7eea826c5817b4d387",
