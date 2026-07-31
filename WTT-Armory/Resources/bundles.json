@@ -6084,6 +6084,157 @@
         "cubemaps",
         "shaders"
       ]
+    },
+    {
+        "key": "WeaponEvolys/textures.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/audio_bank.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/client_assets.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/weapon_fn_evolys_762_container.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/audio_bank.bundle",
+            "WeaponEvolys/client_assets.bundle",
+            "WeaponEvolys/weapon_fn_evolys_556_container.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/weapon_fn_evolys_556_container.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/audio_bank.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_barrel_fn_evolys_standard_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_bipod_fn_evolys.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_magazine_100_rounder_762.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_stock_fn_evolys_base_stock.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_stock_fn_evolys_ar15_adapter_stock.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_barrel_fn_evolys_extended_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_barrel_fn_evolys_reinforced_heavy_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_barrel_fn_evolys_shortened_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponEvolys/mod_magazine_100_rounder_556.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "WeaponEvolys/textures.bundle",
+            "WeaponEvolys/client_assets.bundle"
+        ]
     }
   ]
 }

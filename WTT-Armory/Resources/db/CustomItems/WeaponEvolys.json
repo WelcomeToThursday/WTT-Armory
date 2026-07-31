@@ -1,0 +1,1800 @@
+{
+  "6a6cd61a8ca3e7453cc71847": {
+    "itemTplToClone": "65fb023261d5829b2d090755",
+    "parentId": "5447bed64bdc2d97278b4568",
+    "handbookParentId": "5b5f79a486f77409407a7f94",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/weapon_fn_evolys_762_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "65fb023261d5829b2d090756",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "6a6cd6298ca3e7453cc71848"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "65fb023261d5829b2d090758",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd6888ca3e7453cc7184a",
+                "6a6ce74f8ca3e7453cc71854",
+                "6a6ce76d8ca3e7453cc71856",
+                "6a6ce7aa8ca3e7453cc71858"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_bipod",
+        "_id": "65fb045261d5829b2d090900",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd7488ca3e7453cc7184e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "65fb04a125679d933f00d007",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "577d128124597739d65d0e56",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "626bb8532c923541184624b4",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "62811f461d5df4475f46a332",
+                "5b2389515acfc4771e1be0c0",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5a37ca54c4a282000d72296a",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "6567e751a715f85433025998",
+                "5dff77c759400025ea5150cf",
+                "5c86592b2e2216000e69e77c",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_stock",
+        "_id": "65fb045261d5829b2d090900",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd6df8ca3e7453cc7184c",
+                "6a6ce7fe8ca3e7453cc7185a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_id": "55d354084bdc2d8c2f8b4568",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759",
+                "55d4b9964bdc2d1d4e8b456e",
+                "571659bb2459771fb2755a12",
+                "602e71bd53a60014f9705bfa",
+                "6113c3586c780c1e710c90bc",
+                "6113cc78d3a39d50044c065a",
+                "6113cce3d92c473c770200c7",
+                "5cc9bcaed7f00c011c04e179",
+                "5bb20e18d4351e00320205d5",
+                "5bb20e0ed4351e3bac1212dc",
+                "6193dcd0f8ee7e52e4210a28",
+                "5d025cc1d7ad1a53845279ef",
+                "5c6d7b3d2e221600114c9b7d",
+                "57c55efc2459772d2c6271e7",
+                "57af48872459771f0b2ebf11",
+                "57c55f092459772d291a8463",
+                "57c55f112459772d28133310",
+                "57c55f172459772d27602381",
+                "5a339805c4a2826c6e06d73d",
+                "55802f5d4bdc2dac148b458f",
+                "5d15cf3bd7ad1a67e71518b2",
+                "59db3a1d86f77429e05b4e92",
+                "5fbcbd6c187fea44d52eda14",
+                "59db3acc86f7742a2c4ab912",
+                "59db3b0886f77429d72fb895",
+                "615d8faecabb9b7ad90f4d5d",
+                "5b07db875acfc40dc528a5f6",
+                "63f5feead259b42f0b4d6d0f",
+                "652911675ae2ae97b80fdf3c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "638f2003bbd47aeb9e0ff638",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "638f2003bbd47aeb9e0ff637",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_front",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5fbcc3e4d6fa9c00c571bb5d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5fbcc3e4d6fa9c00c571bb58",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "defMagType": "6a6cd6298ca3e7453cc71848"
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Machine Gun",
+        "shortName": "FN Evolys",
+        "description": "The FN Evolys is a 7.62x51mm NATO general-purpose machine gun. It is widely used by various armed forces around the world for its reliability, durability, and firepower."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 140000,
+    "handbookPriceRoubles": 90000,
+    "addtoTraders": true,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a6cd61a8ca3e7453cc71846": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "FN Evolys",
+        "Templates": [
+          "6a6cd61a8ca3e7453cc71847"
+        ]
+      }
+    ]
+  },
+  "6a6ce6dd8ca3e7453cc71850": {
+    "itemTplToClone": "65fb023261d5829b2d090755",
+    "parentId": "5447bed64bdc2d97278b4568",
+    "handbookParentId": "5b5f79a486f77409407a7f94",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/weapon_fn_evolys_556_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "65fb023261d5829b2d090756",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "6a6ce7248ca3e7453cc71852"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "65fb023261d5829b2d090758",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd6888ca3e7453cc7184a",
+                "6a6ce74f8ca3e7453cc71854",
+                "6a6ce76d8ca3e7453cc71856",
+                "6a6ce7aa8ca3e7453cc71858"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_bipod",
+        "_id": "65fb045261d5829b2d090900",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd7488ca3e7453cc7184e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "65fb04a125679d933f00d007",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "577d128124597739d65d0e56",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "626bb8532c923541184624b4",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "62811f461d5df4475f46a332",
+                "5b2389515acfc4771e1be0c0",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5a37ca54c4a282000d72296a",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "6567e751a715f85433025998",
+                "5dff77c759400025ea5150cf",
+                "5c86592b2e2216000e69e77c",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_stock",
+        "_id": "65fb045261d5829b2d090900",
+        "_parent": "65fb023261d5829b2d090755",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6cd6df8ca3e7453cc7184c",
+                "6a6ce7fe8ca3e7453cc7185a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_id": "55d354084bdc2d8c2f8b4568",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759",
+                "55d4b9964bdc2d1d4e8b456e",
+                "571659bb2459771fb2755a12",
+                "602e71bd53a60014f9705bfa",
+                "6113c3586c780c1e710c90bc",
+                "6113cc78d3a39d50044c065a",
+                "6113cce3d92c473c770200c7",
+                "5cc9bcaed7f00c011c04e179",
+                "5bb20e18d4351e00320205d5",
+                "5bb20e0ed4351e3bac1212dc",
+                "6193dcd0f8ee7e52e4210a28",
+                "5d025cc1d7ad1a53845279ef",
+                "5c6d7b3d2e221600114c9b7d",
+                "57c55efc2459772d2c6271e7",
+                "57af48872459771f0b2ebf11",
+                "57c55f092459772d291a8463",
+                "57c55f112459772d28133310",
+                "57c55f172459772d27602381",
+                "5a339805c4a2826c6e06d73d",
+                "55802f5d4bdc2dac148b458f",
+                "5d15cf3bd7ad1a67e71518b2",
+                "59db3a1d86f77429e05b4e92",
+                "5fbcbd6c187fea44d52eda14",
+                "59db3acc86f7742a2c4ab912",
+                "59db3b0886f77429d72fb895",
+                "615d8faecabb9b7ad90f4d5d",
+                "5b07db875acfc40dc528a5f6",
+                "63f5feead259b42f0b4d6d0f",
+                "652911675ae2ae97b80fdf3c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "638f2003bbd47aeb9e0ff638",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "638f2003bbd47aeb9e0ff637",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_front",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5fbcc3e4d6fa9c00c571bb5d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5fbcc3e4d6fa9c00c571bb58",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "ammoCaliber": "Caliber556x45NATO",
+    "defAmmo": "54527a984bdc2d4e668b4567",
+    "defMagType": "6a6ce7248ca3e7453cc71852"
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 5.56x45 Machine Gun",
+        "shortName": "FN Evolys",
+        "description": "The FN Evolys is a 5.56x45mm NATO general-purpose machine gun. It is widely used by various armed forces around the world for its reliability, durability, and firepower."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 140000,
+    "handbookPriceRoubles": 90000,
+    "addtoTraders": true,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a6ce6dd8ca3e7453cc71851": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "FN Evolys",
+        "Templates": [
+          "6a6ce6dd8ca3e7453cc71850"
+        ]
+      }
+    ]
+  },
+  "6a6cd6298ca3e7453cc71848": {
+    "itemTplToClone": "660ea4453786cc0af808a1be",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponEvolys/mod_magazine_100_rounder_762.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 100-round magazine",
+        "shortName": "FN Evolys",
+        "description": "A 100-round magazine for the FN Evolys 7.62x51 machine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5237,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6cd6298ca3e7453cc71849": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 89,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6ce7248ca3e7453cc71852": {
+    "itemTplToClone": "660ea4453786cc0af808a1be",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponEvolys/mod_magazine_100_rounder_556.bundle",
+        "rcid": ""
+      },
+    "Cartridges": [
+      {
+        "_id": "6761765f1f08ed5e8800b7a8",
+        "_max_count": 100,
+        "_name": "cartridges",
+        "_parent": "6761765f1f08ed5e8800b7a6",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "59e6920f86f77411d82aa167",
+                "59e6927d86f77411da468256",
+                "54527a984bdc2d4e668b4567",
+                "54527ac44bdc2d36668b4567",
+                "59e68f6f86f7746c9f75e846",
+                "59e6906286f7746c9f75e847",
+                "59e690b686f7746c9f75e848",
+                "59e6918f86f7746c9f75e849",
+                "60194943740c5d77f6705eea",
+                "601949593ae8f707c4608daa",
+                "5c0d5ae286f7741e46554302",
+                "5fbe3ffdf8b6a877a729ea82",
+                "5fd20ff893a8961fc660a954",
+                "619636be6db0f2477964e710",
+                "6196364158ef8c428c287d9f",
+                "6196365d58ef8c428c287da1",
+                "64b8725c4b75259c590fa899"
+              ]
+            }
+          ]
+        },
+        "_proto": "5748538b2459770af276a261"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 5.56x45 100-round magazine",
+        "shortName": "FN Evolys",
+        "description": "A 100-round magazine for the FN Evolys 5.56x45 machine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5237,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6ce7248ca3e7453cc71853": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 89,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6cd6888ca3e7453cc7184a": {
+    "itemTplToClone": "66225d88a1c7e3b81600c76f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_barrel_fn_evolys_standard_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "66225d88a1c7e3b81600c770",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6601281fc752a02bbe05e696",
+                  "66012a1d3dff5074ed002e2a",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "66225d88a1c7e3b81600c771",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001499"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Standard Barrel",
+        "shortName": "FN Evolys Barrel",
+        "description": "A high-quality standard barrel for the FN Evolys 7.62x51 machine gun, designed for improved accuracy and performance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6cd6888ca3e7453cc7184b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6ce74f8ca3e7453cc71854": {
+    "itemTplToClone": "66225d88a1c7e3b81600c76f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_barrel_fn_evolys_extended_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "66225d88a1c7e3b81600c770",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6601281fc752a02bbe05e696",
+                  "66012a1d3dff5074ed002e2a",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "66225d88a1c7e3b81600c771",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001499"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Extended Barrel",
+        "shortName": "FN Evolys Barrel",
+        "description": "A high-quality extended barrel for the FN Evolys 7.62x51 machine gun, designed for improved accuracy and performance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6ce74f8ca3e7453cc71855": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6ce76d8ca3e7453cc71856": {
+    "itemTplToClone": "66225d88a1c7e3b81600c76f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_barrel_fn_evolys_reinforced_heavy_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "66225d88a1c7e3b81600c770",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6601281fc752a02bbe05e696",
+                  "66012a1d3dff5074ed002e2a",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "66225d88a1c7e3b81600c771",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001499"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Reinforced Heavy Barrel",
+        "shortName": "FN Evolys Barrel",
+        "description": "A high-quality reinforced heavy barrel for the FN Evolys 7.62x51 machine gun, designed for improved accuracy and performance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6ce76d8ca3e7453cc71857": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6ce7aa8ca3e7453cc71858": {
+    "itemTplToClone": "66225d88a1c7e3b81600c76f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_barrel_fn_evolys_shortened_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "66225d88a1c7e3b81600c770",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6601281fc752a02bbe05e696",
+                  "66012a1d3dff5074ed002e2a",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "66225d88a1c7e3b81600c771",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001499"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Shortened Barrel",
+        "shortName": "FN Evolys Barrel",
+        "description": "A high-quality shortened barrel for the FN Evolys 7.62x51 machine gun, designed for improved maneuverability and performance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6ce7aa8ca3e7453cc71859": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6cd6df8ca3e7453cc7184c": {
+    "itemTplToClone": "660126161347bc1a5f0f4dba",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_stock_fn_evolys_base_stock.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 Base Stock",
+        "shortName": "FN Evolys Stock",
+        "description": "A high-quality base stock for the FN Evolys 7.62x51 machine gun, designed for improved stability and handling."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6cd6df8ca3e7453cc7184d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6ce7fe8ca3e7453cc7185a": {
+    "itemTplToClone": "660126161347bc1a5f0f4dba",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponEvolys/mod_stock_fn_evolys_ar15_adapter_stock.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "58ac1bf086f77420ed183fa0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "58ac1bf086f77420ed183f9f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ade1442459771557167e15",
+                "5a33ca0fc4a282000d72292f",
+                "5c0faeddd174af02a962601f",
+                "5649be884bdc2d79388b4577",
+                "5d120a10d7ad1a4e1026ba85",
+                "5b0800175acfc400153aebd4",
+                "5947e98b86f774778f1448bc",
+                "5947eab886f77475961d96c5",
+                "5ef1ba28c64c5d0dfc0571a5",
+                "602e3f1254072b51b239f713",
+                "5c793fb92e221644f31bfb64",
+                "5c793fc42e221600114ca25d",
+                "591aef7986f774139d495f03",
+                "591af10186f774139d495f0e",
+                "627254cc9c563e6e442c398f",
+                "638de3603a1a4031d8260b8c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys 7.62x51 AR-15 Adapter Stock",
+        "shortName": "FN Evolys AR-15 Adapter Stock",
+        "description": "A high-quality AR-15 adapter stock for the FN Evolys 7.62x51 machine gun, designed for improved stability and handling."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6ce7fe8ca3e7453cc7185b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6cd7488ca3e7453cc7184e": {
+    "itemTplToClone": "6644920d49817dc7d505ca71",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponEvolys/mod_bipod_fn_evolys.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FN Evolys Bipod",
+        "shortName": "FN Evolys Bipod",
+        "description": "A bipod for the FN Evolys 7.62x51 machine gun"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 2780,
+    "handbookPriceRoubles": 1233,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a6cd7488ca3e7453cc7184f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
