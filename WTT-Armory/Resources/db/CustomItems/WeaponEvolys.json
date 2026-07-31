@@ -403,10 +403,94 @@
     "modSlot": [],
     "fleaPriceRoubles": 140000,
     "handbookPriceRoubles": 90000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a6cf4dc0d51a411582f8039",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "evolys 762",
+          "_parent": "6a6cf4dc0d51a411582f803a",
+          "_items": [
+            {
+              "_id": "6a6cf4dc0d51a411582f803a",
+              "_tpl": "6a6cd61a8ca3e7453cc71847",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "fullauto"
+                }
+              }
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ecd",
+              "_tpl": "6a6cd6298ca3e7453cc71848",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ece",
+              "_tpl": "6a6cd6888ca3e7453cc7184a",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ecf",
+              "_tpl": "6a6cd6df8ca3e7453cc7184c",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ed0",
+              "_tpl": "55d4b9964bdc2d1d4e8b456e",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ed1",
+              "_tpl": "5c17804b2e2216152006c02f",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6a6cf4d80d51a411582f7ed2",
+              "_tpl": "5c1780312e221602b66cc189",
+              "parentId": "6a6cf4dc0d51a411582f803a",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            }
+          ],
+          "_encyclopedia": "6a6cd61a8ca3e7453cc71847"
+        }
+    ],
     "traders": {
       "PRAPOR": {
         "6a6cd61a8ca3e7453cc71846": {
@@ -842,10 +926,112 @@
     "modSlot": [],
     "fleaPriceRoubles": 140000,
     "handbookPriceRoubles": 90000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a6cf4dc0d51a411582f8034",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Evolys 556",
+          "_parent": "6a6cf4dc0d51a411582f8035",
+          "_items": [
+            {
+              "_id": "6a6cf4dc0d51a411582f8035",
+              "_tpl": "6a6ce6dd8ca3e7453cc71850",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "fullauto"
+                }
+              }
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c67",
+              "_tpl": "6a6ce7248ca3e7453cc71852",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c68",
+              "_tpl": "6a6cd6888ca3e7453cc7184a",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c69",
+              "_tpl": "6a6ce7fe8ca3e7453cc7185a",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6a",
+              "_tpl": "55802f5d4bdc2dac148b458f",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6b",
+              "_tpl": "5c17804b2e2216152006c02f",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6c",
+              "_tpl": "5c1780312e221602b66cc189",
+              "parentId": "6a6cf4dc0d51a411582f8035",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6d",
+              "_tpl": "5649be884bdc2d79388b4577",
+              "parentId": "6a6cf4980d51a411582f7c69",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6e",
+              "_tpl": "56eabf3bd2720b75698b4569",
+              "parentId": "6a6cf4980d51a411582f7c6d",
+              "slotId": "mod_stock_000"
+            },
+            {
+              "_id": "6a6cf4980d51a411582f7c6f",
+              "_tpl": "58d2912286f7744e27117493",
+              "parentId": "6a6cf4980d51a411582f7c6e",
+              "slotId": "mod_stock"
+            }
+          ],
+          "_encyclopedia": "6a6ce6dd8ca3e7453cc71850"
+        }
+    ],
     "traders": {
       "PRAPOR": {
         "6a6ce6dd8ca3e7453cc71851": {
