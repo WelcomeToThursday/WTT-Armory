@@ -1,14 +1,12 @@
-﻿using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Models.Common;
-using SPTarkov.Server.Core.Models.Eft.Common.Tables;
-using SPTarkov.Server.Core.Models.Utils;
-using SPTarkov.Server.Core.Services;
+﻿using SPTarkov.Common.Models.Logging;
+using SPTarkov.DI.Annotations;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTArmory.Helpers
 {
     [Injectable]
-    public class ArmoryQuestHelper(DatabaseService  databaseService, ISptLogger<ArmoryQuestHelper> logger, QuestHelper questHelper)
+    public class ArmoryQuestHelper(TemplateTable templateTable, ISptLogger<ArmoryQuestHelper> logger, QuestHelper questHelper)
     {
 
         // Define weapon IDs
@@ -101,7 +99,7 @@ namespace WTTArmory.Helpers
         
         public void ModifyQuests()
         {
-            var quests = databaseService.GetTemplates().Quests;
+            var quests = templateTable.Quests;
 
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================

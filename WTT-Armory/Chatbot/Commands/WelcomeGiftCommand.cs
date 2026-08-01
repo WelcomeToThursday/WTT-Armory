@@ -1,14 +1,14 @@
+using SPTarkov.Common.Logger;
 using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Helpers;
+using SPTarkov.Server.Core.Helpers.Profile;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Eft.Dialog;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Models.Enums;
 using SPTarkov.Server.Core.Models.Spt.Dialog;
-using SPTarkov.Server.Core.Services;
-using SPTarkov.Server.Core.Services.Mod;
-using SPTarkov.Server.Core.Utils.Logger;
+using SPTarkov.Server.Core.Services.Commerce;
+using SPTarkov.Server.Core.Services.Modding;
 using WTTArmory.Models;
 
 namespace WTTArmory.Chatbot.Commands
@@ -35,7 +35,7 @@ namespace WTTArmory.Chatbot.Commands
         {
             var profileId = sessionId.ToString();
 
-            var giftData = profileDataService.GetProfileData<WTTWelcomeGiftData>(profileId, ModKey);
+            var giftData = await profileDataService.GetProfileDataAsync<WTTWelcomeGiftData>(profileId, ModKey);
             if (giftData == null)
             {
                 logger.Info("[WelcomeGiftCommand] Creating new WelcomeGiftData for profile.");
@@ -48,7 +48,7 @@ namespace WTTArmory.Chatbot.Commands
             giftData.WelcomeGiftUses++;
             var uses = giftData.WelcomeGiftUses;
 
-            profileDataService.SaveProfileData(profileId, ModKey, giftData);
+            await profileDataService.SaveProfileDataAsync(profileId, ModKey, giftData);
 
             var dialogsInProfile = dialogueHelper.GetDialogsForProfile(profileId);
             var senderId = commandHandler.Id;

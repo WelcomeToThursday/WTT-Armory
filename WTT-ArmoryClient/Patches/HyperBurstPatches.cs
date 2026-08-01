@@ -60,15 +60,15 @@ namespace WTTArmoryClient.Patches
     {
         protected override MethodBase GetTargetMethod()
         {
-            return typeof(GClass2029).GetMethod("Update", BindingFlags.Instance | BindingFlags.Public);
+            return typeof(AutomaticFireOperation).GetMethod("Update", BindingFlags.Instance | BindingFlags.Public);
         }
 
         [PatchPrefix]
-        private static void Prefix(GClass2029 __instance)
+        private static void Prefix(AutomaticFireOperation __instance)
         {
-            bool isYourPlayer = __instance.Player_0.IsYourPlayer;
+            bool isYourPlayer = __instance.Player.IsYourPlayer;
 
-            if (!isYourPlayer || !Plugin.GunHasHyperburst || __instance.Weapon_0.SelectedFireMode == Weapon.EFireMode.single)
+            if (!isYourPlayer || !Plugin.GunHasHyperburst || __instance.Weapon.SelectedFireMode == Weapon.EFireMode.single)
                 return;
 
             bool doHyperBurst = Plugin.ROFShotCount <= Plugin.ShotThreshold.Value;
@@ -76,7 +76,7 @@ namespace WTTArmoryClient.Patches
 
             //Float_5 is used to store the weapon's fire rate for lifetime of FC. When player switches weapon, this values would get reset.
             //So it's set here to allow for a dynamic fire rate.
-            __instance.Float_5 = 60f / (int)(__instance.Weapon_0.FireRate * burstMulti);
+            __instance._shotsTime = 60f / (int)(__instance.Weapon.FireRate * burstMulti);
         }
     }
 

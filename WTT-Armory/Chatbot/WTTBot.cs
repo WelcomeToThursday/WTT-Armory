@@ -1,13 +1,14 @@
+using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Helpers;
 using SPTarkov.Server.Core.Helpers.Dialogue;
+using SPTarkov.Server.Core.Helpers.Profile;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Models.Enums;
-using SPTarkov.Server.Core.Services;
-using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Dialog;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
+using SPTarkov.Server.Core.Services.Commerce;
+using SPTarkov.Server.Core.Services.Locales;
 
 namespace WTTArmory.Chatbot
 {
@@ -41,7 +42,7 @@ namespace WTTArmory.Chatbot
             };
         }
 
-        public override async ValueTask<string> HandleMessage(MongoId sessionId, SendMessageRequest request)
+        public new async ValueTask<string> HandleMessage(MongoId sessionId, SendMessageRequest request)
         {
             if (request.Text.Length == 0)
             {
