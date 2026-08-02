@@ -27,7 +27,7 @@ public record ModMetadata : IModMetadata
     public string License { get; init; } = "MIT";
 }
 
-[Injectable(TypePriority = OnLoadOrder.PostLoad + 2)]
+[Injectable(TypePriority = OnLoadOrder.Preload + 2)]
 public class WTTArmory(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     CoreConfig coreConfig,
