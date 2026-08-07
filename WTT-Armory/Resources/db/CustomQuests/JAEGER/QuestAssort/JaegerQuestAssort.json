@@ -1,8 +1,5 @@
 {
     "started": {},
-    "success": {
-      "6864939c4f0378786803c322": "687b616db015c21f329bf45f",
-      "687b5c9bdf09391dc84e47ba": "687b616db015c21f329bf45f"
-    },
+    "success": {},
     "fail": {}
-  }
+}
