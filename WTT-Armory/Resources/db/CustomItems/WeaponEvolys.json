@@ -943,7 +943,7 @@
     "locales": {
       "en": {
         "name": "FN EVOLYS 5.56x45 light machinegun",
-        "shortName": "FN EVOLYS",
+        "shortName": "EVOLYS",
         "description": "The EVOLYS is an ultralight belt-fed machine gun developed to combine the firepower of a light machinegun with the ergonomics of an assault rifle. As such, it has found its place in military, special forces and private military applications around the world. Manufactured by FN Herstal"
       }
     },
@@ -1300,7 +1300,7 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         }
       ],
-      "ExtraSizeLeft": 1
+      "ExtraSizeLeft": 0
     },
     "locales": {
       "en": {
@@ -1474,7 +1474,7 @@
         "rcid": ""
       },
       "Name": "barrel_evolys_762_heavy",
-      "ExtraSizeLeft": 1,
+      "ExtraSizeLeft": 0,
       "Slots": [
         {
           "_name": "mod_muzzle",
