@@ -1304,7 +1304,7 @@
       "en": {
         "name": "Ak5G Bipod",
         "shortName": "Ak5G",
-        "description": "Standard issue bipod for the Ak5G 5.56x45 light machinegun."
+        "description": "Standard issue bipod for the Ak5G 5.56x45 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -2598,9 +2598,9 @@
     },
     "locales": {
       "en": {
-        "name": "Bofors Ak5G 5.56x45 light machinegun",
+        "name": "Bofors Ak5G 5.56x45 light machine gun",
         "shortName": "Ak5G",
-        "description": "The Ak5G is the light machinegun variant of the Ak5C 5.56x45 rifle.  The Ak5G variant is equipped with a heavier barrel and metal handguard with heatshield."
+        "description": "The Ak5G is the light machine gun variant of the Ak5C 5.56x45 rifle.  The Ak5G variant is equipped with a heavier barrel and metal handguard with heatshield."
       }
     },
     "addtoInventorySlots": [],
@@ -2758,7 +2758,7 @@
       "en": {
         "name": "Ak5G metal handguard with heatshield",
         "shortName": "Ak5G",
-        "description": "A metal handguard equipped with a heatshield and bipod mounting point for the Ak5G 5.56x45 light machinegun."
+        "description": "A metal handguard equipped with a heatshield and bipod mounting point for the Ak5G 5.56x45 light machine gun."
       }
     },
     "addtoInventorySlots": [],

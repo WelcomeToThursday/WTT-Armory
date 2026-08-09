@@ -967,7 +967,7 @@
       "en": {
         "name": "Valmet M78 Bipod",
         "shortName": "M78 Bipod",
-        "description": "Standard issue bipod for the M78 7.62x51 light machinegun."
+        "description": "Standard issue bipod for the M78 7.62x51 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -1078,7 +1078,7 @@
       "en": {
         "name": "Valmet M78 7.61x51 sound suppressor",
         "shortName": "M78 S",
-        "description": "Proprietary sound suppressor for the M78 7.62x51 light machinegun."
+        "description": "Proprietary sound suppressor for the M78 7.62x51 light machine gun."
       }
     },
     "addtoInventorySlots": [],

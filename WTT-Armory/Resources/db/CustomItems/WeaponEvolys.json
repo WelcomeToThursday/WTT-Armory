@@ -406,9 +406,9 @@
     },
     "locales": {
       "en": {
-        "name": "FN EVOLYS 7.62x51 light machinegun",
+        "name": "FN EVOLYS 7.62x51 light machine gun",
         "shortName": "EVOLYS",
-        "description": "The EVOLYS is an ultralight belt-fed machine gun developed to combine the firepower of a light machinegun with the ergonomics of an assault rifle. As such, it has found its place in military, special forces and private military applications around the world. Manufactured by FN Herstal"
+        "description": "The EVOLYS is an ultralight belt-fed machine gun developed to combine the firepower of a light machine gun with the ergonomics of an assault rifle. As such, it has found its place in military, special forces and private military applications around the world. Manufactured by FN Herstal"
       }
     },
     "addtoInventorySlots": [],
@@ -942,9 +942,9 @@
     },
     "locales": {
       "en": {
-        "name": "FN EVOLYS 5.56x45 light machinegun",
+        "name": "FN EVOLYS 5.56x45 light machine gun",
         "shortName": "EVOLYS",
-        "description": "The EVOLYS is an ultralight belt-fed machinegun developed to combine the firepower of a light machinegun with the ergonomics of an assault rifle. As such, it has found its place in military, special forces and private military applications around the world. Manufactured by FN Herstal"
+        "description": "The EVOLYS is an ultralight belt-fed machine gun developed to combine the firepower of a light machine gun with the ergonomics of an assault rifle. As such, it has found its place in military, special forces and private military applications around the world. Manufactured by FN Herstal"
       }
     },
     "addtoInventorySlots": [],
@@ -1102,7 +1102,7 @@
       "en": {
         "name": "FN EVOLYS 7.62x51 100-round magazine",
         "shortName": "FN EVOLYS",
-        "description": "A 100-round magazine for the FN EVOLYS 7.62x51 light machinegun."
+        "description": "A 100-round magazine for the FN EVOLYS 7.62x51 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -1211,7 +1211,7 @@
       "en": {
         "name": "FN EVOLYS 5.56x45 100-round magazine",
         "shortName": "EVOLYS",
-        "description": "A 100-round magazine for the FN EVOLYS 5.56x45 light machinegun."
+        "description": "A 100-round magazine for the FN EVOLYS 5.56x45 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -1655,7 +1655,7 @@
       "en": {
         "name": "FN EVOLYS Polymer stock",
         "shortName": "EVOLYS poly.",
-        "description": "A polymer stock for the EVOLYS machinegun, manufactured by Fabrique Nationale Herstal."
+        "description": "A polymer stock for the EVOLYS machine gun, manufactured by Fabrique Nationale Herstal."
       }
     },
     "addtoInventorySlots": [],
@@ -1752,7 +1752,7 @@
       "en": {
         "name": "FN EVOLYS buffer tube adapter",
         "shortName": "EVOLYS adpt.",
-        "description": "An adapter for the installation of telescopic buffer tubes on the FN EVOLYS light machinegun."
+        "description": "An adapter for the installation of telescopic buffer tubes on the FN EVOLYS light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -1815,7 +1815,7 @@
       "en": {
         "name": "EVOLYS bipod",
         "shortName": "EVOLYS",
-        "description": "A standard-issue bipod for the FN EVOLYS light machinegun."
+        "description": "A standard-issue bipod for the FN EVOLYS light machine gun."
       }
     },
     "addtoInventorySlots": [],

@@ -1599,7 +1599,7 @@
             "ShortName": "Ak5G",
             "ParentID": "55818afb4bdc2dde698b456d",
             "Type": "55818afb4bdc2dde698b456d",
-            "Description": "Standard issue bipod for the Ak5G 5.56x45 light machinegun.",
+            "Description": "Standard issue bipod for the Ak5G 5.56x45 light machine gun.",
             "Weight": 0.235,
             "PrefabPath": "WeaponAK5C/bipod_ak5g.bundle"
         }
@@ -1672,11 +1672,11 @@
     },
     "682d4820e48f3c573ec332b5": {
         "en": {
-            "Name": "Bofors Ak5G 5.56x45 light machinegun",
+            "Name": "Bofors Ak5G 5.56x45 light machine gun",
             "ShortName": "Ak5G",
             "ParentID": "5447bed64bdc2d97278b4568",
             "Type": "MACHINEGUN",
-            "Description": "The Ak5G is the light machinegun variant of the Ak5C 5.56x45 rifle.  The Ak5G variant is equipped with a heavier barrel and metal handguard with heatshield.",
+            "Description": "The Ak5G is the light machine gun variant of the Ak5C 5.56x45 rifle.  The Ak5G variant is equipped with a heavier barrel and metal handguard with heatshield.",
             "Weight": 3.15,
             "PrefabPath": "WeaponAK5C/weapon_ak5g_container.bundle"
         }
@@ -1687,7 +1687,7 @@
             "ShortName": "Ak5G",
             "ParentID": "55818a104bdc2db9688b4569",
             "Type": "HANDGUARD",
-            "Description": "A metal handguard equipped with a heatshield and bipod mounting point for the Ak5G 5.56x45 light machinegun.",
+            "Description": "A metal handguard equipped with a heatshield and bipod mounting point for the Ak5G 5.56x45 light machine gun.",
             "Weight": 0.275,
             "PrefabPath": "WeaponAK5C/ak5g_handguard.bundle"
         }
@@ -3208,7 +3208,7 @@
             "ShortName": "HK11E fixed",
             "ParentID": "55818a594bdc2db9688b456a",
             "Type": "STOCK",
-            "Description": "A standard fixed stock, designed for the 11E light machinegun series. Manufactured by Heckler & Koch.",
+            "Description": "A standard fixed stock, designed for the 11E light machine gun series. Manufactured by Heckler & Koch.",
             "Weight": "0.75",
             "PrefabPath": "WeaponG3/hk21stock.bundle"
         }
@@ -3838,7 +3838,7 @@
             "ShortName": "M249",
             "ParentID": "5447bed64bdc2d97278b4568",
             "Type": "MACHINEGUN",
-            "Description": "The M249 SAW (Squad Automatic Weapon) is a gas operated and air cooled light machinegun widely used by the U.S. Armed Forces. The weapon was introduced in 1984 to address a lack of sustained automatic fire capability at the squad level. The M249 SAW combines the rate of fire of a machine gun with the accuracy and portability of an assault rifle.",
+            "Description": "The M249 SAW (Squad Automatic Weapon) is a gas operated and air cooled light machine gun widely used by the U.S. Armed Forces. The weapon was introduced in 1984 to address a lack of sustained automatic fire capability at the squad level. The M249 SAW combines the rate of fire of a machine gun with the accuracy and portability of an assault rifle.",
             "Weight": 2.631,
             "PrefabPath": "WeaponM249/weapon_m249_container.bundle"
         }
@@ -3849,7 +3849,7 @@
             "ShortName": "M249",
             "ParentID": "5448bc234bdc2d3c308b4569",
             "Type": "MAGAZINE",
-            "Description": "Standard 200-round 5.56x45mm box magazine for the M249 light machinegun.",
+            "Description": "Standard 200-round 5.56x45mm box magazine for the M249 light machine gun.",
             "Weight": 1.37,
             "PrefabPath": "WeaponM249/mag_m249.bundle"
         }
@@ -3860,7 +3860,7 @@
             "ShortName": "M249",
             "ParentID": "5448bc234bdc2d3c308b4569",
             "Type": "MAGAZINE",
-            "Description": "A 100-round soft pack box magazine for the M249 5.56x45mm light machinegun.",
+            "Description": "A 100-round soft pack box magazine for the M249 5.56x45mm light machine gun.",
             "Weight": 0.875,
             "PrefabPath": "WeaponM249/mag_m249_lmg_100_rounder.bundle"
         }
@@ -3871,7 +3871,7 @@
             "ShortName": "M249 FS",
             "ParentID": "55818ac54bdc2d5b648b456e",
             "Type": "55818ac54bdc2d5b648b456e",
-            "Description": "Standard front sight post for the M249 5.56x45mm light machinegun.",
+            "Description": "Standard front sight post for the M249 5.56x45mm light machine gun.",
             "PrefabPath": "WeaponM249/m249_fs.bundle"
         }
     },
@@ -3881,7 +3881,7 @@
             "ShortName": "M249 PARA.",
             "ParentID": "55818a594bdc2db9688b456a",
             "Type": "STOCK",
-            "Description": "Shortened ergonomic buttstock for the M249 5.56x45mm light machinegun designed for airborne and close quarters combat operations.",
+            "Description": "Shortened ergonomic buttstock for the M249 5.56x45mm light machine gun designed for airborne and close quarters combat operations.",
             "Weight": 0.94,
             "PrefabPath": "WeaponM249/m249_parastock.bundle"
         }
@@ -3913,7 +3913,7 @@
             "ShortName": "M249 poly",
             "ParentID": "55818a594bdc2db9688b456a",
             "Type": "STOCK",
-            "Description": "Standard polymer stock for the M249 5.56x45mm light machinegun.",
+            "Description": "Standard polymer stock for the M249 5.56x45mm light machine gun.",
             "Weight": 1.49,
             "PrefabPath": "WeaponM249/m249_stdstock1.bundle"
         }
@@ -3924,7 +3924,7 @@
             "ShortName": "M249 poly",
             "ParentID": "55818a104bdc2db9688b4569",
             "Type": "HANDGUARD",
-            "Description": "Standard polymer handguard for the M249 5.56x45mm light machinegun.",
+            "Description": "Standard polymer handguard for the M249 5.56x45mm light machine gun.",
             "Weight": 0.75,
             "PrefabPath": "WeaponM249/m249_stdhandguard.bundle"
         }
@@ -3935,7 +3935,7 @@
             "ShortName": "M249 std.",
             "ParentID": "555ef6e44bdc2de9068b457e",
             "Type": "BARREL",
-            "Description": "Standard barrel assembly for the M249 5.56x45mm light machinegun.",
+            "Description": "Standard barrel assembly for the M249 5.56x45mm light machine gun.",
             "Weight": 2.49,
             "PrefabPath": "WeaponM249/m249_barrellong.bundle"
         }
@@ -3946,7 +3946,7 @@
             "ShortName": "M249 PARA.",
             "ParentID": "555ef6e44bdc2de9068b457e",
             "Type": "BARREL",
-            "Description": "Shortened barrel assembly for the M249 5.56x45mm light machinegun optimized for airborne infantry and close quarters combat operations.",
+            "Description": "Shortened barrel assembly for the M249 5.56x45mm light machine gun optimized for airborne infantry and close quarters combat operations.",
             "Weight": 1.84,
             "PrefabPath": "WeaponM249/m249_barrelshort.bundle"
         }
@@ -3957,7 +3957,7 @@
             "ShortName": "M249 std.",
             "ParentID": "550aa4bf4bdc2dd6348b456b",
             "Type": "FLASHHIDER",
-            "Description": "Standard flash hider muzzle device for the M249 5.56x45 light machinegun.",
+            "Description": "Standard flash hider muzzle device for the M249 5.56x45 light machine gun.",
             "Weight": 0.105,
             "PrefabPath": "WeaponM249/m249_muzzle.bundle"
         }
@@ -3990,7 +3990,7 @@
             "ShortName": "MAC Mini",
             "ParentID": "55818a104bdc2db9688b4569",
             "Type": "HANDGUARD",
-            "Description": "Minimalist style handguard for the M249 5.56x45mm light machinegun manufactured by Moloc Armament Co.",
+            "Description": "Minimalist style handguard for the M249 5.56x45mm light machine gun manufactured by Moloc Armament Co.",
             "Weight": 0.46,
             "PrefabPath": "WeaponM249/m249_handguardminimalist.bundle"
         }
@@ -4023,7 +4023,7 @@
             "ShortName": "M249",
             "ParentID": "55818afb4bdc2dde698b456d",
             "Type": "55818afb4bdc2dde698b456d",
-            "Description": "Standard issue bipod for the M249 5.56x45 light machinegun.",
+            "Description": "Standard issue bipod for the M249 5.56x45 light machine gun.",
             "Weight": 0.25,
             "PrefabPath": "WeaponM249/m249_bipod.bundle"
         }

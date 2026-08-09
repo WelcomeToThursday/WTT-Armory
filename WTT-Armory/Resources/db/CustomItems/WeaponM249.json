@@ -240,7 +240,7 @@
       "en": {
         "name": "M249 SAW 5.56x45 light machine gun",
         "shortName": "M249",
-        "description": "The M249 SAW (Squad Automatic Weapon) is a gas operated and air cooled light machinegun widely used by the U.S. Armed Forces. The weapon was introduced in 1984 to address a lack of sustained automatic fire capability at the squad level. The M249 SAW combines the rate of fire of a machine gun with the accuracy and portability of an assault rifle."
+        "description": "The M249 SAW (Squad Automatic Weapon) is a gas operated and air cooled light machine gun widely used by the U.S. Armed Forces. The weapon was introduced in 1984 to address a lack of sustained automatic fire capability at the squad level. The M249 SAW combines the rate of fire of a machine gun with the accuracy and portability of an assault rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -399,7 +399,7 @@
       "en": {
         "name": "M249 5.56x45 200-round box magazine",
         "shortName": "M249",
-        "description": "Standard 200-round 5.56x45mm box magazine for the M249 light machinegun."
+        "description": "Standard 200-round 5.56x45mm box magazine for the M249 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -465,7 +465,7 @@
       "en": {
         "name": "M249 5.56x45 soft pack 100-round magazine",
         "shortName": "M249",
-        "description": "A 100-round soft pack box magazine for the M249 5.56x45mm light machinegun."
+        "description": "A 100-round soft pack box magazine for the M249 5.56x45mm light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -497,7 +497,7 @@
       "en": {
         "name": "M249 Front Sight Post",
         "shortName": "M249 FS",
-        "description": "Standard front sight post for the M249 5.56x45mm light machinegun."
+        "description": "Standard front sight post for the M249 5.56x45mm light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -533,7 +533,7 @@
       "en": {
         "name": "M249 PARA Stock",
         "shortName": "M249 PARA.",
-        "description": "Shortened ergonomic buttstock for the M249 5.56x45mm light machinegun designed for airborne and close quarters combat operations."
+        "description": "Shortened ergonomic buttstock for the M249 5.56x45mm light machine gun designed for airborne and close quarters combat operations."
       }
     },
     "addtoInventorySlots": [],
@@ -689,7 +689,7 @@
       "en": {
         "name": "M249 polymer stock",
         "shortName": "M249 poly",
-        "description": "Standard polymer stock for the M249 5.56x45mm light machinegun."
+        "description": "Standard polymer stock for the M249 5.56x45mm light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -726,7 +726,7 @@
       "en": {
         "name": "M249 polymer handguard",
         "shortName": "M249 poly",
-        "description": "Standard polymer handguard for the M249 5.56x45mm light machinegun."
+        "description": "Standard polymer handguard for the M249 5.56x45mm light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -833,7 +833,7 @@
       "en": {
         "name": "M249 standard 5.56x45 barrel sssembly",
         "shortName": "M249 std.",
-        "description": "Standard barrel assembly for the M249 5.56x45mm light machinegun."
+        "description": "Standard barrel assembly for the M249 5.56x45mm light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -940,7 +940,7 @@
       "en": {
         "name": "M249 Paratrooper 5.56x45 barrel assembly",
         "shortName": "M249 PARA.",
-        "description": "Shortened barrel assembly for the M249 5.56x45mm light machinegun optimized for airborne infantry and close quarters combat operations."
+        "description": "Shortened barrel assembly for the M249 5.56x45mm light machine gun optimized for airborne infantry and close quarters combat operations."
       }
     },
     "addtoInventorySlots": [],
@@ -976,7 +976,7 @@
       "en": {
         "name": "M249 5.56x45 standard flash hider",
         "shortName": "M249 std.",
-        "description": "Standard flash hider muzzle device for the M249 5.56x45 light machinegun."
+        "description": "Standard flash hider muzzle device for the M249 5.56x45 light machine gun."
       }
     },
     "addtoInventorySlots": [],
@@ -1533,7 +1533,7 @@
       "en": {
         "name": "Moloc Armament Co. Mini Handguard",
         "shortName": "MAC Mini",
-        "description": "Minimalist style handguard for the M249 5.56x45mm light machinegun manufactured by Moloc Armament Co."
+        "description": "Minimalist style handguard for the M249 5.56x45mm light machine gun manufactured by Moloc Armament Co."
       }
     },
     "addtoInventorySlots": [],
@@ -1775,7 +1775,7 @@
       "en": {
         "name": "M249 Bipod",
         "shortName": "M249",
-        "description": "Standard issue bipod for the M249 5.56x45 light machinegun."
+        "description": "Standard issue bipod for the M249 5.56x45 light machine gun."
       }
     },
     "addtoInventorySlots": [],
