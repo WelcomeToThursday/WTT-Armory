@@ -1280,7 +1280,27 @@
         "path": "WeaponEvolys/mod_barrel_fn_evolys_standard_barrel.bundle",
         "rcid": ""
       },
-      "Slots": []
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6a77bf2d0df4d31d2e300875",
+          "_parent": "6a6ce74f8ca3e7453cc71854",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5dfa3d2b0dee1b22f862eade"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ExtraSizeLeft": 1
     },
     "locales": {
       "en": {
@@ -1344,6 +1364,7 @@
         "rcid": ""
       },
       "Name": "barrel_evolys_762_extended",
+      "ExtraSizeLeft": 1,
       "Slots": [
         {
           "_name": "mod_muzzle",
@@ -1453,6 +1474,7 @@
         "rcid": ""
       },
       "Name": "barrel_evolys_762_heavy",
+      "ExtraSizeLeft": 1,
       "Slots": [
         {
           "_name": "mod_muzzle",
@@ -1562,7 +1584,8 @@
         "rcid": ""
       },
       "Name": "barrel_evolys_762_short",
-      "Slots": []
+      "Slots": [],
+      "ExtraSizeLeft": 0
     },
     "locales": {
       "en": {
