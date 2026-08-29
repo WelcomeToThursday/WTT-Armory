@@ -488,7 +488,7 @@
       "ammoRec": 2,
       "BallisticCoeficient": 0.095,
       "BulletMassGram": 7.5,
-      "CanSellOnRagfair": false,
+      "CanSellOnRagfair": true,
       "Damage": 63,
       "InitialSpeed": 305,
       "LightBleedingDelta": 0,

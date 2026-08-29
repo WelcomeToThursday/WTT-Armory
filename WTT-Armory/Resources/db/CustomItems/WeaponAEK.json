@@ -181,7 +181,7 @@
     },
     "locales": {
       "en": {
-        "name": "AEK-971 5.45x39 assault rifle",
+        "name": "KMZ AEK-971 5.45x39 assault rifle",
         "shortName": "AEK-971",
         "description": "The AEK-971 is a selective fire 5.45x39mm assault rifle that was developed at the Kovrov Mechanical Plant (KMZ) by chief designer Stanislav Ivanovich Koksharov in the late 1970s and 1980s."
       }
@@ -466,7 +466,7 @@
     },
     "locales": {
       "en": {
-        "name": "AEK-973 7.62x39 assault rifle",
+        "name": "KMZ AEK-973 7.62x39 assault rifle",
         "shortName": "AEK-973",
         "description": "The AEK-973 is a selective fire 7.62x39mm assault rifle that was developed at the Kovrov Mechanical Plant (KMZ) by chief designer Stanislav Ivanovich Koksharov in the late 1970s and 1980s."
       }

@@ -583,8 +583,8 @@
     },
     "locales": {
       "en": {
-        "name": ".50 BMG Mk211 Raufoss",
-        "shortName": "Mk211",
+        "name": ".50 BMG MK 211 Mod 0 (Raufoss)",
+        "shortName": "Raufoss",
         "description": "A multipurpose .50 caliber round combining armor-piercing, explosive, and incendiary effects. Designed to punch through light armor and detonate on impact for maximum damage."
       }
     },
