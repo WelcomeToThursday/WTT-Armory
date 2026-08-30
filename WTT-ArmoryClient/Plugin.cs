@@ -8,7 +8,7 @@ using WTTArmoryClient.Properties;
 
 namespace WTTArmoryClient
 {
-    [BepInPlugin("com.wtt.armory", "WTT-Armory", "2.0.5")]
+    [BepInPlugin("com.wtt.armory", "WTT-Armory", "2.1")]
     public class Plugin : BaseUnityPlugin
     {
         public static GameWorld GameWorld;
