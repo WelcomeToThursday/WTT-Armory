@@ -175,7 +175,7 @@
     },
     "locales": {
       "en": {
-        "name": "AN-94 5.45x39 assault rifle",
+        "name": "Kalashnikov AN-94 5.45x39 assault rifle",
         "shortName": "AN-94",
         "description": "The AN-94 was designed as a potential replacement to the AK-74 series of rifles currently in service with the Russian Armed Forces. Due to its complex design and expense, it failed to fill its intended role as a replacement for the AK-74, but it is in limited use as a special purpose weapon. The AN-94 has the unique feature of delaying felt recoil for the first two rounds. This increases hit probability in adverse combat conditions. The AN-94 offers a unique two-shot burst function at a stated 1800 rounds per minute, with the second shot firing very close to the first round. This feature is often known as the hyperburst mechanism."
       }
@@ -600,7 +600,7 @@
     },
     "locales": {
       "en": {
-        "name": "AN-94 5.45x39 \"Kirov's Custom\" assault rifle",
+        "name": "Kalashnikov AN-94 5.45x39 \"Kirov's Custom\" assault rifle",
         "shortName": "AN-94-K",
         "description": "A custom AN-94 5.45x39mm assault rifle that has been fitted with a railed handguard and a muzzle device to reduce recoil."
       }
