@@ -91,7 +91,7 @@ namespace WTTArmoryClient.Patches
         [PatchPrefix]
         private static bool Prefix(Weapon __instance, ref int __result)
         {
-            bool isYourPlayer = __instance?.Owner != null && __instance?.Owner?.ID != null && __instance.Owner.ID == Singleton<GameWorld>.Instance.MainPlayer.ProfileId;
+            bool isYourPlayer = __instance?.Owner?.ID != null && __instance.Owner.ID == Singleton<GameWorld>.Instance?.MainPlayer?.ProfileId;
 
             if (!isYourPlayer || !Plugin.GunHasHyperburst || __instance.SelectedFireMode == Weapon.EFireMode.single)
                 return true;
