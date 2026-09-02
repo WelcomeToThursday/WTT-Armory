@@ -91,7 +91,11 @@ namespace WTTArmoryClient.Patches
         [PatchPrefix]
         private static bool Prefix(Weapon __instance, ref int __result)
         {
-            bool isYourPlayer = __instance?.Owner != null && __instance?.Owner?.ID != null && __instance.Owner.ID == Singleton<GameWorld>.Instance.MainPlayer.ProfileId;
+            GameWorld gameWorld = Singleton<GameWorld>.Instance;
+            Player mainPlayer = gameWorld?.MainPlayer;
+
+            // headless check, this doesn't require FIKA libraries
+            bool isYourPlayer = mainPlayer != null && __instance?.Owner != null && __instance.Owner.ID != null && __instance.Owner.ID == mainPlayer.ProfileId;
 
             if (!isYourPlayer || !Plugin.GunHasHyperburst || __instance.SelectedFireMode == Weapon.EFireMode.single)
                 return true;
